@@ -149,11 +149,11 @@ height: 100vh;
 #inicio img{
 
 width: 100%;
-opacity: 0.8;
+/*opacity: 0.8;*/
 display:block;
 height:100%;
 object-fit:cover;object-position:center;
- transition: all .3s ease-in;
+transition: all .3s ease-in;
 
 }
 
@@ -178,7 +178,7 @@ color:#393e46;
 
 #inicio .bloque-banner .parrafo
 {
-    font-size: 25px;
+    font-size: 35px;
 	font-weight: 700;
 	color:#0c0a8e;
 
@@ -188,7 +188,7 @@ color:#393e46;
 
 #inicio .bloque-banner h1{
 
-	font-size: 2.5vw;
+	font-size: 3vw;
 	margin-top: 0;
 	margin-bottom: 20px;
 	letter-spacing: .08em;
